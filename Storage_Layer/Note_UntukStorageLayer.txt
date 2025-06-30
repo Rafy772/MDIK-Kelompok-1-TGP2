@@ -1,0 +1,1 @@
+Karena keterbatasan size untuk upload ke GitHub, harap men-download file postgresql-17.5-2-windows-x64 secara mandiri sebagai penyimpanan berbasis SQL untuk Storage Layer.
